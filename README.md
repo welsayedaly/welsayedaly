@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Walid El Sayed Aly</h1>
-<h3 align="center">Cloud Engineer|Technical IT Consultant|Freelancer</h3>
+<h3 align="center">Cloud Engineer | Technical IT Consultant | Freelancer</h3>
 
 - 💬 Ask me about **AWS, Google, K8s Projects, DevOps**
 
