@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **AWS, Google Cloud, K8s Projects, DevOps**
 
-- 📫 How to reach me **walid.elsayedaly@extra-something.com**
+- 📫 How to reach me **w@wesa.dev**
 
 
 <p align="center">
