@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Walid El Sayed Aly</h1>
-<h3 align="center">Cloud Engineer | Technical IT Consultant | Freelancer</h3>
+<h3 align="center">Freelance software architect | DevOps & cloud consultant | Expert for on-premises & customized solutions</h3>
 
-- 💬 Ask me about **AWS, Google Cloud, K8s Projects, DevOps**
+- 💬 Ask me about **AWS, Azure, Google Cloud, K8s Projects, DevOps**
 
 - 📫 How to reach me **w@wesa.dev**
 
