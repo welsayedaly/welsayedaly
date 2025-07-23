@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **AWS, Azure, Google Cloud, K8s Projects, DevOps**
 
-- 📫 How to reach me **w@wesa.dev**
+- 📫 How to reach me **hi@extra-something.com**
 
 
 <p align="center">
