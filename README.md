@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Walid El Sayed Aly</h1>
-<h3 align="center">Freelance software architect | DevOps & cloud consultant | Expert for on-premises & customized solutions</h3>
+<h3 align="center">Cloud & DevOps Architect (Freelance) | Founder @ CICDX | Kubernetes, CI/CD Automation & AWS Cost Optimization | Helping companies deploy faster & reduce cloud costs</h3>
 
 - 💬 Ask me about **AWS, Azure, Google Cloud, K8s Projects, DevOps**
 
